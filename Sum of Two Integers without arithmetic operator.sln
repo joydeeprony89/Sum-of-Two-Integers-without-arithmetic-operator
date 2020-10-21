@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of Two Integers without arithmetic operator", "Sum of Two Integers without arithmetic operator\Sum of Two Integers without arithmetic operator.csproj", "{FFBC421E-8180-4DA9-AF69-ADB00B2C796D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBC421E-8180-4DA9-AF69-ADB00B2C796D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBC421E-8180-4DA9-AF69-ADB00B2C796D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBC421E-8180-4DA9-AF69-ADB00B2C796D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBC421E-8180-4DA9-AF69-ADB00B2C796D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42A4F7B7-D282-4A01-B668-F4D5137FE3D8}
+	EndGlobalSection
+EndGlobal
